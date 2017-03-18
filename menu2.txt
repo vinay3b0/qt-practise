@@ -1,3 +1,7 @@
 hai this is vinay
+<<<<<<< HEAD
 
 nfengujbfd
+=======
+created and added files
+>>>>>>> experiment
